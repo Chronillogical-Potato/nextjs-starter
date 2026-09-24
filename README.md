@@ -18,7 +18,7 @@ A lightweight starter template with the [Once UI Core](https://github.com/once-u
 
 ## Documentation
 
-Learn how to build with Once UI at [docs.once-ui.com](https://docs.once-ui.com/once-ui/quick-start).
+Learn how to build with Once UI at [docs.once-ui.com](https://docs.once-ui.com/quick-start).
 
 ## Quick start
 
@@ -26,9 +26,9 @@ Learn how to build with Once UI at [docs.once-ui.com](https://docs.once-ui.com/o
 
 [Magic Docs](https://once-ui.com/products/magic-docs) (FREE): Documentation generator. Just add your MDX files and let Magic Docs handle the rest.
 
-[Magic Convert](https://once-ui.com/products/magic-convert) (PRO): Conversion-optimized landing page and dashboard template.
+[Stack](https://once-ui.com/stack) (PRO): A complete app built on Once UI: landing, dashboard, docs, store and more, composed from the surfaces you pick.
 
-[Once UI Blocks](https://once-ui.com/blocks) (PRO): Copy-paste pre-designed blocks and deploy fully-functional sites with lightning speed.
+[Once UI Blocks](https://docs.once-ui.com/blocks/quickStart) (FREE): Copy-paste pre-designed blocks and deploy fully-functional sites with lightning speed.
 
 [Get Once UI Pro](https://once-ui.com/pricing)
 
